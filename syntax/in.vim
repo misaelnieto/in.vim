@@ -15,6 +15,8 @@ augroup END
 
 setlocal iskeyword+=.
 
+syntax case ignore
+
 " Athena statements
 syntax keyword inAthenaStatement ab[erration] adapt.m[esh] adapt.p[ar] bak[e] 
   \ base.m[esh] base.p[ar] bo[undary] cl[uster] com[ment] cp[ulog] dep[osit]
