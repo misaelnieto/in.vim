@@ -22,7 +22,7 @@ syntax keyword inAthenaStatement ab[erration] adapt.m[esh] adapt.p[ar] bak[e]
   \ ext[ract] for[each] g[o] h[elp] illum.[filter] illumi[nation] ima[ge]
   \ impl[ant] impu[rity] ini[tialize] inters[titial] va[cancy] lay[out] li[ne]
   \ mas[k] mat[erial] met[hod] mom[ents] optic[al] option ox[ide] po[lish]
-  \ print.[1d] printf prof[ile] proj[ection pu[pil.filter] qu[it] rate.dep[o]
+  \ print.[1d] printf prof[ile] proj[ection] pu[pil.filter] qu[it] rate.dep[o]
   \ rate.dev[elop] rate.do[pe] rate.e[tch] rate.p[olish] regi[on] rel[ax] 
   \ sel[ect] set setm[ode] sil[icide] sou[rce] stres[s] stret[ch] stri[p]
   \ stru[cture] sys[tem] to[nyplot] tr[ap] un[setmode] contained
